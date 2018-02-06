@@ -27,7 +27,7 @@
     <repository>
 	    <id>mmoro75</id>
 		<name>MyMaven-Project</name>
-		<url>https://github.com/mmoro75/MyMaven-Project.git</url>
+		<url>https://github.com/mmoro75/MyMaven-Project</url>
 	</repository>	
 </distributionManagement>
 
