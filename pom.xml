@@ -25,11 +25,13 @@
 
 <distributionManagement>
     <repository>
-	    <id>mmoro75</id>
+	    <id>GitHub</id>
 		<name>MyMaven-Project</name>
-		<url>https://github.com/mmoro75/MyMaven-Project</url>
+		<url>https://github.com/mmoro75/MyMaven-Project</url>		
 	</repository>	
 </distributionManagement>
+
+
 
 
 </project>
